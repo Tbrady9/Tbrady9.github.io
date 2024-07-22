@@ -30,9 +30,13 @@ Please feel free to follow the links below for more information on this project.
 
 ### <center> Project Two: Algorithms and Data Structures </center>
 
-Please check back soon for an update on this project .
+Please check back soon for an update on this project.
 
 <center><kbd><img src="SlideShow.jpg" height=300 width=400></kbd></center>
+
+Please feel free to follow the links below for more information on this project.
+
+<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow">Project Report</a> </code>
 
 ### <center> Project Three: Databases </center>
 
