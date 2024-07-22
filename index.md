@@ -1,8 +1,6 @@
 <center>
   <kbd><img src="me.jpg" height=200 width=130></kbd>
 </center>
-  
-# <center> Tim Brady </center>
 
 ## <center> Computer Science Capstone </center>
 
