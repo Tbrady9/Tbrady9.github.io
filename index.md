@@ -1,5 +1,5 @@
 <center>
-  <img src="me.jpg" height=200 width=200>
+  <img src="me.jpg" height=200 width=130>
 </center>
   
 # <center> Tim Brady </center>
