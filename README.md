@@ -28,12 +28,12 @@ The implementation of an array of objects is a well-founded technique that accom
 
 
 ---
-Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
+### Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. ###
 
 The improved code with better organization, more complete commenting, and better maintainability is developed in a professional manner. The enhanced visuals of the project leads to a more professional appearance to the user.
 
 
 ---
-Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.
+### Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices. ###
 
 Having a sorting option available where the user can re-sort the data on the fly was done by implementing sorting algorithms within action listeners. The sorting functions used adhere to best practices and standards because they are proven functions that were implemented with simplicity in mind to enhance maintainability.
