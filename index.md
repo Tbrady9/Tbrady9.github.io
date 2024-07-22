@@ -10,7 +10,7 @@ A code review is a methodical way of checking code for completeness and quality 
 
 A code review was conducted for each of the following three projects before they underwent enhancement. Please feel free to watch it by following the link below.
 
-<code> <a href="https://youtu.be/f0aFHuVSD4M">Code Review</a>. </code>
+<code> <a href="https://youtu.be/f0aFHuVSD4M">Code Review</a> </code>
 
 ### <center> Project One: Software Engineering and Design </center>
 
@@ -24,13 +24,15 @@ Please feel free to follow the links below for more information on this project.
 
 <code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Batman-Cave-of-Injustice">Project Report</a> </code> 
 
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Batman-Cave-of-Injustice/Batman%20Cave%20of%20Injustice/Batman%20Cave%20Of%20Justice">Original Project (2021)</a> </code>
+<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Batman-Cave-of-Injustice/Batman%20Cave%20of%20Injustice/Batman%20Cave%20Of%20Justice">Original Project Files (2021)</a> </code>
 
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Batman-Cave-of-Injustice/Batman%20Cave%20of%20Injustice/Batman%20Cave%20of%20Injustice%20Enhanced">Enhanced Project (2024)</a> </code>
+<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Batman-Cave-of-Injustice/Batman%20Cave%20of%20Injustice/Batman%20Cave%20of%20Injustice%20Enhanced">Enhanced Project Files (2024)</a> </code>
 
 ### <center> Project Two: Algorithms and Data Structures </center>
 
 Please check back soon for an update on this project.
+
+<center><kbd><img src="Slideshow.jpg" height=300 width=400></kbd></center>
 
 ### <center> Project Three: Databases </center>
 
