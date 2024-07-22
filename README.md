@@ -22,11 +22,11 @@ New Slideshow Layout
 
 Course Outcomes Displayed
 ----
-**Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.**
+<strong>Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.</strong>
 
 The implementation of an array of objects is a well-founded technique that accomplished the goal of organizing data for easier sorting and retrieval. It allows all data to be centralized and flexible.
 
-**Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.  **
+__Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.__
 
 The improved code with better organization, more complete commenting, and better maintainability is developed in a professional manner. The enhanced visuals of the project leads to a more professional appearance to the user.
 
