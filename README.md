@@ -12,11 +12,11 @@ This project was initially developed with very little in terms of data structure
 
 Additional enhancements made to the original file were improved comments and a more polished visual experience. The old slideshow looked stretched out and had a color scheme that often blended the text together with the background. It looked messy and uninviting. The new visuals look more sleek and refined.
 
-Old Slideshow
+Old Slideshow Layout
 ----
 ![image](https://github.com/user-attachments/assets/60f9877d-ec5a-4a28-ad2c-f419d9598855)
 
-New Slideshow
+New Slideshow Layout
 ----
 ![image](https://github.com/user-attachments/assets/d9cf1cde-50d8-4f85-b6c0-822de302eff3)
 
