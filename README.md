@@ -2,7 +2,7 @@
 
 ## Slideshow ##
 
-The project that I chose to represent algorithms and data structures is a slideshow project developed in CS250 (Software and Development Lifecycle) in December of 2022. For this project, we were given code snippets and wer etasked with adding to it to create a slideshow for vacation destinations. We used Java as a coding language and the Eclipse IDE. The requirements were to create 5 destination slides, each with their own image and description. A 'next' or 'previous' button would navigate through the slides.
+The project that I chose to represent algorithms and data structures is a slideshow project developed in CS250 (Software and Development Lifecycle) in December of 2022. For this project, we were given code snippets and were tasked with adding to it to create a slideshow for vacation destinations. We used Java as a coding language and the Eclipse IDE. The requirements were to create 5 destination slides, each with their own image and description. A 'next' or 'previous' button would navigate through the slides.
 
 Initially, the slides in this project were sorted in a static manner in whatever order the data was entered into the code. It was originally developed with very little in terms of data structures or algorithms. The main enhancements that I made to this project were the implementation of these things. By adding a class for the destinations, I was able to implement an array of objects to hold each destination. I could then iterate through the array to get the data. This also allowed me to add the other main enhancement which is a sorting option for the users. There is now a dropdown box on the slideshow that will allow the user to reload the slideshow sorted by the destination names or the rating.
 
