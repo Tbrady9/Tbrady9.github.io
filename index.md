@@ -20,8 +20,10 @@ This project is important to me and was chosen as an inclusion in my portfolio b
 
 Please feel free to follow the links below for more information on this project.
 
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Batman-Cave-of-Injustice">Project Report</a> </code>
+<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Batman-Cave-of-Injustice">Project Report</a> </code> 
+
 <code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Batman-Cave-of-Injustice/Batman%20Cave%20of%20Injustice/Batman%20Cave%20Of%20Justice">Original Project (2021)</a> </code>
+
 <code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Batman-Cave-of-Injustice/Batman%20Cave%20of%20Injustice/Batman%20Cave%20of%20Injustice%20Enhanced">Enhanced Project (2024)</a> </code>
 
 ### <center> Project Two: Algorithms and Data Structures </center>
