@@ -32,7 +32,7 @@ Please feel free to follow the links below for more information on this project.
 
 Please check back soon for an update on this project .
 
-<center><kbd><img src="Slideshow.jpg" height=300 width=400></kbd></center>
+<center><kbd><img src="SlideShow.jpg" height=300 width=400></kbd></center>
 
 ### <center> Project Three: Databases </center>
 
