@@ -12,7 +12,7 @@ A code review is a methodical way of checking code for completeness and quality 
 
 ### <center> Project One: Software Engineering and Design </center>
 
-<img src="Batman.jpg" height=250 width=250></kbd>
+<img src="batman.jpg" height=250 width=250>
 
 The first project that was chosen for enhancement was a text-based game developed in IT140 (Intro to Scripting). The game that I created, called Batman: Cave of Injustice, was developed using the Python coding language and the PyCharm IDE. Players must navigate through various rooms to collect all of Batman's gadgets before facing the final boss (Superman), who has been filled with anger after being exposed to a toxin developed by The Joker. 
 
