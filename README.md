@@ -1,1 +1,3 @@
-# Tbrady9.github.io
+# Project Two: Algorithms and Data Structures
+
+## Slideshow ##
