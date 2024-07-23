@@ -18,7 +18,7 @@ The first project that was chosen for enhancement was a project developed for IT
 
 <center><kbd><img src="batman.jpg" height=300 width=400></kbd></center>
 
-This project is important to me and was chosen as an inclusion in my portfolio because it shows my progrss over the last three years. The enhancements made to it are meant to showcase my ability to organize, modularize, and develop in a way that promotes maintainability and collaboration. The implementation of data structures like dictionaries and arrays allowed the code to be cleaned up and simplified significantly. This meets course outcomes for employing strategies for building collaborative environments as well as designing and evaluating computer solutions that solve problems using algorithmic principles and computer science practices and standards.
+This project is important to me and was chosen as an inclusion in my portfolio because it shows my progress over the last three years. The enhancements made to it are meant to showcase my ability to organize, modularize, and develop in a way that promotes maintainability and collaboration. The implementation of data structures like dictionaries and arrays allowed the code to be cleaned up and simplified significantly. This meets course outcomes for employing strategies for building collaborative environments as well as designing and evaluating computer solutions that solve problems using algorithmic principles and computer science practices and standards.
 
 Please feel free to follow the links below for more information on this project.
 
