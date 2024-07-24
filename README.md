@@ -14,7 +14,8 @@ Additional enhancements made to the original file were improved comments and a m
 
 Old Slideshow Layout
 ----
-![image](https://github.com/user-attachments/assets/60f9877d-ec5a-4a28-ad2c-f419d9598855)
+![oldSlideShow](https://github.com/user-attachments/assets/a672299a-2198-40ed-9c22-70d2846ffed9)
+
 
 New Slideshow Layout
 ----
