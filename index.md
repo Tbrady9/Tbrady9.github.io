@@ -38,6 +38,13 @@ Please feel free to follow the links below for more information on this project.
 
 <code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow">Project Report</a> </code>
 
+<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow/Slide%20Show">Original Project Files (2022)</a> </code>
+
+<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow/Slide%20Show%20Enhanced">Enhanced Project Files (2024)</a> </code>
+
+
+<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow">Project Report</a> </code>
+
 ### <center> Project Three: Databases </center>
 
 Please check back soon for an update on this project.
