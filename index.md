@@ -18,7 +18,11 @@ The first project that was chosen for enhancement was a project developed for IT
 
 <center><kbd><img src="batman.jpg" height=300 width=400></kbd></center>
 
-This project is important to me and was chosen as an inclusion in my portfolio because it shows my progress over the last three years. The enhancements made to it are meant to showcase my ability to organize, modularize, and develop in a way that promotes maintainability and collaboration. The implementation of data structures like dictionaries and arrays allowed the code to be cleaned up and simplified significantly. This meets course outcomes for employing strategies for building collaborative environments as well as designing and evaluating computer solutions that solve problems using algorithmic principles and computer science practices and standards.
+This project is important to me and was chosen as an inclusion in my portfolio because it shows my progress over the last three years. The enhancements made to it are meant to showcase my ability to organize, modularize, and develop in a way that promotes maintainability and collaboration. The implementation of data structures like dictionaries and arrays allowed the code to be cleaned up and simplified significantly. This meets the following course outcomes:
+
+- Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.
+
+- Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.
 
 Please feel free to follow the links below for more information on this project.
 
@@ -30,9 +34,17 @@ Please feel free to follow the links below for more information on this project.
 
 ### <center> Project Two: Algorithms and Data Structures </center>
 
-Please check back soon for an update on this project.
+Project two is an assignment from my second year pursuing my computer science degree. In CS250 (Software Development Lifecycle), we were tasked with creating a slide show using the Java coding language and the Eclipse IDE. This slide show needed to have five slides, each with their own text description and picture. Snippets of the code were provided for us and we had to fill in the blanks to create the working slide show.
 
 <center><kbd><img src="SlideShow.jpg" height=300 width=400></kbd></center>
+
+I chose to include this project because it shows off more of my creative side while also showing technical ability. To fit the algorithms and data structures theme of project two, I chose to incoporate a data structure to hold the destinations and implement a sorting method to allow the user to re-sort the destination data, and thus the slides, at any time. By implementing a destination class and creating an array of objects, I was able to use an action listener on a dropdown box on the slide show to re-sort the array and re-load the slide show each time an option in the dropdown box was chosen. The skills showcased within this project adhere to the following course outcomes:
+
+- Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
+
+- Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
+
+- Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.
 
 Please feel free to follow the links below for more information on this project.
 
@@ -41,9 +53,6 @@ Please feel free to follow the links below for more information on this project.
 <code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow/Slide%20Show">Original Project Files (2022)</a> </code>
 
 <code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow/Slide%20Show%20Enhanced">Enhanced Project Files (2024)</a> </code>
-
-
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow">Project Report</a> </code>
 
 ### <center> Project Three: Databases </center>
 
