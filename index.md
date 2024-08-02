@@ -26,7 +26,7 @@ This project is important to me and was chosen as an inclusion in my portfolio b
 
 Please feel free to follow the links below for more information on this project.
 
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Batman-Cave-of-Injustice">Project Report</a> </code> 
+<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Batman-Cave-of-Injustice">Project Report and Instructions</a> </code> 
 
 <code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Batman-Cave-of-Injustice/Batman%20Cave%20of%20Injustice/Batman%20Cave%20Of%20Justice">Original Project Files (2021)</a> </code>
 
@@ -48,7 +48,7 @@ I chose to include this project because it shows off more of my creative side wh
 
 Please feel free to follow the links below for more information on this project.
 
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow">Project Report</a> </code>
+<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow">Project Report and Instructions</a> </code>
 
 <code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow/Slide%20Show">Original Project Files (2022)</a> </code>
 
@@ -56,7 +56,14 @@ Please feel free to follow the links below for more information on this project.
 
 ### <center> Project Three: Databases </center>
 
-Please check back soon for an update on this project.
+The third project chosen for enhancement was a mobile app developed a year ago, in 2023, as part of my CS360 (Mobile Architect and Programming) course. The original task for this project was to develop a mobile android application for tracking inventory using the Java coding language, the Android Studio IDE, and an SQLite database. The requirements for the project were as follows:
+
+- The app must have multiple screens
+- The app must have a login and registration process
+- The app must store and display inventory data
+- The app must have a notification system
+
+<center><kbd><img src="InventoryTracker.png" height=450 width=300></kbd></center>
 
 ### <center> Professional Self Assessment </center>
 
