@@ -75,11 +75,11 @@ At the time of original development, I had a very basic understanding of databas
 
 Please feel free to follow the links below for more information on this project.
 
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/InventoryTracker">Project Report and Instructions</a> </code>
+<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io">Project Report and Instructions</a> </code>
 
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/blob/InventoryTracker/TimBrady_InventoryTracker.zip">Original Project Files (2023)</a> </code>
+<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/blob/main/TimBrady_InventoryTracker.zip">Original Project Files (2023)</a> </code>
 
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/blob/InventoryTracker/TimBrady_InventoryTracker_Enhanced.zip">Enhanced Project Files (2024)</a> </code>
+<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/blob/main/TimBrady_InventoryTracker_Enhanced.zip">Enhanced Project Files (2024)</a> </code>
 
 ### <center> Professional Self Assessment </center>
 
