@@ -16,7 +16,7 @@ A code review was conducted for each of the following three projects before they
 
 The first project that was chosen for enhancement was a project developed for IT140 (Intro to Scripting) near the beginning of the pursuit of my degree three years ago. The text-based game that I created, called Batman: Cave of Injustice, was developed using the Python coding language and the PyCharm IDE. Players must navigate through various rooms to collect all of Batman's gadgets before facing the final boss (Superman), who has been filled with anger after being exposed to a toxin developed by The Joker.
 
-<center><kbd><img src="batman.jpg" height=300 width=400></kbd></center>
+<center><kbd><img src="Batman.jpg" height=300 width=400></kbd></center>
 
 This project is important to me and was chosen as an inclusion in my portfolio because it shows my progress over the last three years. The enhancements made to it are meant to showcase my ability to organize, modularize, and develop in a way that promotes maintainability and collaboration. The implementation of data structures like dictionaries and arrays allowed the code to be cleaned up and simplified significantly. This meets the following course outcomes:
 
