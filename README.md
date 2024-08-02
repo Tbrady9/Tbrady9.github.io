@@ -27,6 +27,31 @@ Old version
 New version
 ![newInventoryTracker](https://github.com/user-attachments/assets/90a403c1-8cce-4a73-a3d8-7c979e56e210)
 
+## Instructions ##
+
+### Objective and Requirements ###
+
+This application was developed using the Java coding language in the Android Studio IDE. The emulator within Android Studio that was used for testing is a Pixel 5 phone with the 'R' Release Name (API Level 30). Though it will run on other devices and other API levels, this is the preferred setup. Below is a small video you can follow to set this up.
+
+![DeviceSetup](https://github.com/user-attachments/assets/4e177b68-f1be-434b-a1ea-148e7c546be7)
+
+### Game Modes ####
+
+Easy - Superman will stay in the Hangar and wait for you to face him.
+
+Hard - Superman will wander randomly throughout the batcave.
+
+###  Controls ###
+
+User must enter one of the following in the prompt:
+
+- 'I' = View a list of collected inventory.
+- 'M' = View the map. The map will tell you each room that has an item as well as the locations of you and Superman.
+- 'North' = Move to the room above.
+- 'South' = Move to the room below.
+- 'East' = Move to the room to the right.
+- 'West' = Move to the room to the left.
+
 Course Outcomes Displayed
 ---
 ### Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. ###
