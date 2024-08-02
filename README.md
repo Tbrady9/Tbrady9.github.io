@@ -19,6 +19,7 @@ Security was also enhanced from the original version. Slight input validation wa
 
 ![image](https://github.com/user-attachments/assets/98dbd598-afb7-4539-9607-8d43b2996c9c)
 
+
 Lastly, general cleanup was done in the form of improved comments and sectioning of the code as well as a more modern and interesting layout and design. Below you can see two of the screen transformations between the old and new versions.
 
 Old version
@@ -27,30 +28,23 @@ Old version
 New version
 ![newInventoryTracker](https://github.com/user-attachments/assets/90a403c1-8cce-4a73-a3d8-7c979e56e210)
 
+
 ## Instructions ##
 
 ### Objective and Requirements ###
 
-This application was developed using the Java coding language in the Android Studio IDE. The emulator within Android Studio that was used for testing is a Pixel 5 phone with the 'R' Release Name (API Level 30). Though it will run on other devices and other API levels, this is the preferred setup. Below is a small video you can follow to set this up.
+This application was developed using the Java coding language in the Android Studio IDE. The emulator within Android Studio that was used for testing is a Pixel 5 phone with the 'R' Release Name (API Level 30). Though it will run on other devices and other API levels, this is the preferred setup. Below is a small video you can follow to set this up. You may need to click the down arrow beside API 30 if it is not initially available to you.
 
 ![DeviceSetup](https://github.com/user-attachments/assets/4e177b68-f1be-434b-a1ea-148e7c546be7)
 
-### Game Modes ####
+Upon running the app for the first time, no users will be stored. Feel free to click on the button to create a new account and give your new account the Manager role. You can then go back to the login screen and login using your credentials. 
 
-Easy - Superman will stay in the Hangar and wait for you to face him.
+You will then be brought to a blank items screen where you can again go ahead and enter any amount of new items that you want by clicking on the button to add new item. When you click submit, the new item will be in your list. Each item is added as it's own card. Clicking on the button to go to the user screen will take you to a similar screen for a list of users where you can add or remove users as you please. Most of this functionality is only available to users with the Manager role as the Employees have read-only access. See the video below for an example of adding and removing an item.
 
-Hard - Superman will wander randomly throughout the batcave.
+![AddRemoveItem](https://github.com/user-attachments/assets/6b8e7a21-29de-46ce-82d6-72140bad7dd5)
 
-###  Controls ###
+Lastly is the notification feature. By clicking on the cog wheel in the top right corner of the item screen, you will be taken to the settings screen. There is a toggle for enable or disable notifications as well as a text field where you can set the minimum level of quantity for you to get a notification. For example, if you set this number to 10, you will receive a notification for any item that drops below 10 qunatity. Feel free to go back to the item screen and edit an item's quantity to test it out!
 
-User must enter one of the following in the prompt:
-
-- 'I' = View a list of collected inventory.
-- 'M' = View the map. The map will tell you each room that has an item as well as the locations of you and Superman.
-- 'North' = Move to the room above.
-- 'South' = Move to the room below.
-- 'East' = Move to the room to the right.
-- 'West' = Move to the room to the left.
 
 Course Outcomes Displayed
 ---
