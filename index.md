@@ -63,7 +63,7 @@ The third project chosen for enhancement was a mobile app developed a year ago, 
 - The app must store and display inventory data
 - The app must have a notification system
 
-<center><kbd><img src="InventoryTracker.png" height=450 width=300></kbd></center>
+<center><kbd><img src="InventoryTracker.png" height=550 width=300></kbd></center>
 
 ### <center> Professional Self Assessment </center>
 
