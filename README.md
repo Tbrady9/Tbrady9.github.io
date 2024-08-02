@@ -27,31 +27,16 @@ Old version
 New version
 ![newInventoryTracker](https://github.com/user-attachments/assets/90a403c1-8cce-4a73-a3d8-7c979e56e210)
 
-Additional enhancements made to the original file were improved comments and a more polished visual experience. The old slideshow looked stretched out and had a color scheme that often blended the text together with the background. It looked messy and uninviting. The new visuals look more sleek and refined but, most of all, allow the user to more easily read the text of each slide.
-
-Old Slideshow Layout
-----
-![oldSlideShow](https://github.com/user-attachments/assets/aac973af-7fe2-44a2-a687-45a3ba825ae2)
-
-
-New Slideshow Layout
-----
-![image](https://github.com/user-attachments/assets/d9cf1cde-50d8-4f85-b6c0-822de302eff3)
-
 Course Outcomes Displayed
 ---
-### Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. ###
+### Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. ###
 
-The implementation of an array of objects is a well-founded technique that accomplished the goal of organizing data for easier sorting and retrieval. It allows all data to be centralized and flexible.
-
-
----
-### Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. ###
-
-The improved code with better organization, more complete commenting, and better maintainability is developed in a professional manner. The enhanced visuals of the project leads to a more professional appearance to the user.
+The implementation of authorization levels and enhanced input validation increase the security of this application. Replaceable parameters were also used to increase protection against SQL injection.
 
 
 ---
-### Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices. ###
+### Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science. ###
 
-Having a sorting option available where the user can re-sort the data on the fly was done by implementing sorting algorithms within action listeners. The sorting functions used adhere to best practices and standards because they are proven functions that were implemented with simplicity in mind to enhance maintainability.
+There were very large portions of code in the original that had no comments. This was improved in the enhanced version and greatly imrpoves the ability to collaborate and share with others.
+
+
