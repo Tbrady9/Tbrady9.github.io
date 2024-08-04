@@ -33,6 +33,8 @@ New version
 
 ### Objective and Requirements ###
 
+This is an inventory tracking mobile application that allows users to create and maintain a list of items as well as a list of users for the app. Notifications can be setup to warn a user of low quantity for items.
+
 This application was developed using the Java coding language in the Android Studio IDE. The emulator within Android Studio that was used for testing is a Pixel 5 phone with the 'R' Release Name (API Level 30). Though it will run on other devices and other API levels, this is the preferred setup. Below is a small video you can follow to set this up. You may need to click the down arrow beside API 30 to download it if it is not initially available to you.
 
 ![DeviceSetup](https://github.com/user-attachments/assets/4e177b68-f1be-434b-a1ea-148e7c546be7)
