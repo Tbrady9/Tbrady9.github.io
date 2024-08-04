@@ -45,7 +45,7 @@ You will then be brought to a blank items screen where you can again go ahead an
 
 ![AddRemoveItem](https://github.com/user-attachments/assets/6b8e7a21-29de-46ce-82d6-72140bad7dd5)
 
-Lastly is the notification feature. By clicking on the cog wheel in the top right corner of the item screen, you will be taken to the settings screen. There is a toggle to enable or disable notifications as well as a text field where you can set the minimum level of quantity for you to get a notification. For example, if you set this number to 10, you will receive a notification for any item that drops below 10 qunatity. Feel free to go back to the item screen and edit an item's quantity to test it out!
+Lastly is the notification feature. By clicking on the cog wheel in the top right corner of the item screen, you will be taken to the settings screen. There is a toggle to enable or disable notifications as well as a text field where you can set the minimum level of quantity for you to get a notification. For example, if you set this number to 10, you will receive a notification for any item that drops below 10 quantity. Feel free to go back to the item screen and edit an item's quantity to test it out!
 
 
 Course Outcomes Displayed
