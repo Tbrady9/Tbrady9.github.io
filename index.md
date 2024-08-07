@@ -26,11 +26,11 @@ This project is important to me and was chosen as an inclusion in my portfolio b
 
 Please feel free to follow the links below for more information on this project.
 
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Batman-Cave-of-Injustice">Project Report and Instructions</a> </code> 
+<code> <a href="https://github.com/Tbrady9/BatmanTextGame">Project Report and Instructions</a> </code> 
 
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Batman-Cave-of-Injustice/Batman%20Cave%20of%20Injustice/Batman%20Cave%20Of%20Justice">Original Project Files (2021)</a> </code>
+<code> <a href="https://github.com/Tbrady9/BatmanTextGame/blob/main/Batman%20Cave%20Of%20Justice.zip">Original Project Files (2021)</a> </code>
 
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Batman-Cave-of-Injustice/Batman%20Cave%20of%20Injustice/Batman%20Cave%20of%20Injustice%20Enhanced">Enhanced Project Files (2024)</a> </code>
+<code> <a href="https://github.com/Tbrady9/BatmanTextGame/blob/main/Batman%20Cave%20of%20Injustice%20Enhanced.zip">Enhanced Project Files (2024)</a> </code>
 
 ### <center> Project Two: Algorithms and Data Structures </center>
 
@@ -48,7 +48,7 @@ I chose to include this project because it shows off more of my creative side wh
 
 Please feel free to follow the links below for more information on this project.
 
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow">Project Report</a> </code>
+<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow">Project Report and Instructions</a> </code>
 
 <code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow/Slide%20Show">Original Project Files (2022)</a> </code>
 
@@ -65,9 +65,9 @@ The third project chosen for enhancement was a mobile app developed a year ago, 
 
 <center><kbd><img src="InventoryTracker.png" height=550 width=300></kbd></center>
 
-This project was chosen as an inclusion in my portfolio because it is the first somewhat complex app that I had created completely from scratch. It was chosen for the databases project because it performs full CRUD functionality on the SQLite database it uses to store the data. The project was a success and received a great grade, however, it was not without its faults. 
+This project was chosen as an inclusion in my portfolio because it is the first somewhat complex app that I had created completely from scratch. It was chosen for the databases project because it performs full CRUD functionality on the SQLite database it uses to store the data. The project was a success and received a great grade, however, there is always room for improvement. 
 
-At the time of original development, I had a very basic understanding of databases and ended up implementing two different databases to hold the different types of data (users and items). This works but is not best practice. My first enhancement was to correct that by merging the two into one database with two tables. The original app was also only capable of adding a user to the database. After enhancement, full CRUD functionality is available from within the app for the users like it was for the items. Security was enhanced with authorization levels in the form of roles for employees. Managers are able to edit info while employees have read-only access. Input validation was also enhanced to increase security. Lastly, general cleanup was done in the form of improved comments and sectioning of the code as well as a more modern and interesting layout and design. The skills showcased within this project adhere to the following course outcomes:
+At the time of original development, I had a very basic understanding of databases and ended up implementing two different databases to hold the different types of data (users and items). This works but is not best practice. My first enhancement was to correct that by merging the two databases into one database with two tables. The original app was also only capable of adding a user to the database. After enhancement, full CRUD functionality is available from within the app for the users table like it was for the items table. Security was enhanced with authorization levels in the form of roles for employees. Managers are able to edit info while employees have read-only access. Input validation was also enhanced to increase security. Lastly, general cleanup was done in the form of improved comments and sectioning of the code as well as a more modern and interesting layout and design. The skills showcased within this project adhere to the following course outcomes:
 
 - Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
