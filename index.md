@@ -48,11 +48,11 @@ I chose to include this project because it shows off more of my creative side wh
 
 Please feel free to follow the links below for more information on this project.
 
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow">Project Report and Instructions</a> </code>
+<code> <a href="https://github.com/Tbrady9/DestinationSlideShow">Project Report and Instructions</a> </code>
 
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow/Slide%20Show">Original Project Files (2022)</a> </code>
+<code> <a href="https://github.com/Tbrady9/DestinationSlideShow/blob/main/Slide%20Show.zip">Original Project Files (2022)</a> </code>
 
-<code> <a href="https://github.com/Tbrady9/Tbrady9.github.io/tree/Slideshow/Slide%20Show%20Enhanced">Enhanced Project Files (2024)</a> </code>
+<code> <a href="https://github.com/Tbrady9/DestinationSlideShow/blob/main/Slide%20Show%20Enhanced.zip">Enhanced Project Files (2024)</a> </code>
 
 ### <center> Project Three: Databases </center>
 
