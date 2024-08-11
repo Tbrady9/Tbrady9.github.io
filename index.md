@@ -4,6 +4,16 @@
 
 ## <center> Computer Science Capstone </center>
 
+### <center> Professional Self Assessment </center>
+
+After over a dozen years as an analyst within a healthcare system and being chosen to lead a team for a large project to rebuild our analytics processes and tools, I realized that there were many skills that fell just outside of my silo of responsibilities but would be extremely beneficial to know. This was the driving factor in pursuing a computer science degree at Southern New Hampshire University. Throughout my time at SNHU, I have gained these skills and many others that allow me to become a greater asset for current and future employers. This ePortfolio will showcase some of the skills gained throughout the pursuit of my bachelor’s degree in computer science. 
+
+Many topics will be recurring themes within my ePortfolio as they are topics that I consider to be extremely important within the computer science field. Collaboration is the first. Collaborating, whether it is with other programmers, or with the clients in gathering requirements, is crucial to success. I obtained project planning skills to assist with collaboration and practiced them in many courses using things like UML diagrams, pseudocode, wireframes, user story mapping, sequence diagrams, and class diagrams. In addition, I develop software with collaboration and communication in mind by writing well documented, well-organized code. Organization is another recurring theme. It is showcased in things like the layout of this ePortfolio or the structure and commenting of my code. It can also be seen in my use of data structures to bring organization to data within many of my applications. The use of data structures is an effective way of removing clutter and improving maintainability. Lastly, you will notice security being referenced multiple times. I learned the importance of security by reviewing historical data breaches and the impacts that they had. I gained experience implementing security by developing unit tests and analyzing security principles like defense in depth and DevSecOps.
+
+Those skills and many others will be displayed throughout this ePortfolio. The first showcase in my ePortfolio is my ability to conduct a thorough code review. You will see in the posted video that I am able to be systematic, detail oriented, and careful in my approach while critiquing my past work and highlighting areas of improvement regarding things like security, maintainability, and efficiency. The code review will focus on three past projects from my time at SNHU. Details of the three projects will be outlined below and will include links to full reports as well as project files.
+
+The first project displays my knowledge of software design and engineering. I chose a text-based game from my first year as a student to highlight skills gained in general code structure and organization. Collaboration is important in the computer science field and the enhancements done for this first game are meant to show my ability to develop organized, maintainable code that enhances the possibility of collaboration. The second project highlights my ability to implement algorithms within software to accomplish a task. In this case, I chose a slideshow developed in my second year. The enhancements made to this second project will showcase my ability to utilize an algorithm to seamlessly sort and re-sort the data elements within the slideshow in real time. Lastly, my third project will focus on databases. This third and final project will show what I’ve learned regarding implementing software that utilizes a database to track and update data. For this, an inventory tracking mobile app was developed.
+
 ### <center> Code Review </center>
 
 A code review is a methodical way of checking code for completeness and quality before it is used. This is important because it addresses many common issues that could arise in coding. These issues could include missed requirements, security vulnerabilities, bugs, or general coding best practices that may have been missed. 
@@ -80,7 +90,3 @@ Please feel free to follow the links below for more information on this project.
 <code> <a href="https://github.com/Tbrady9/InventoryTracker/blob/main/TimBrady_InventoryTracker.zip">Original Project Files (2023)</a> </code>
 
 <code> <a href="https://github.com/Tbrady9/InventoryTracker/blob/main/TimBrady_InventoryTracker_Enhanced.zip">Enhanced Project Files (2024)</a> </code>
-
-### <center> Professional Self Assessment </center>
-
-Please check back soon.
